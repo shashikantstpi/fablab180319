@@ -1,7 +1,7 @@
-# A. Shashikant & Gaurav Fabzero Experiance
+# Shashikant & Gaurav Fabzero Experiance
 Hello My name is Shashikant and my collegue name is Gaurav
 # Today is the first training day
-Fablab Training first day : Date : 18-03-2019
+## Fablab Training first day : Date : 18-03-2019
 Today morining we have start session with Dr. Omkar Rai, 
 DG of STPI motivation speech after that we learn about the introduction of fablab.
 and then we all visited the fablab  room and know about the all the equipment.
