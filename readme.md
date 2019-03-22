@@ -6,7 +6,7 @@ Hello My name is Shashikant and my collegue name is Gaurav.<h1>
 
 [Vinayl Cutter](https://github.com/shashikantstpi/fabzero/blob/master/new.md)
 
-[Goto Home](https://github.com/niharmohanty2018/fabzero)
+[Goto Home](https://github.com/shashikantstpi/fabzero)
 
 Vinyl Cutter
 ![Vinyl Cutter](/img/img1.jpg)
