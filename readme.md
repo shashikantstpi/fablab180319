@@ -1,10 +1,10 @@
 
-Hello
-![Vinyl Cutter](/img/img1.jpg)
 # Shashikant & Gaurav Fabzero Experiance
 Hello My name is Shashikant and my collegue name is Gaurav.
 
 # INTRODUCTORY DAY-1 (DATE - 18.03.2019)
+
+![Vinyl Cutter](/img/img1.jpg)
 
 *Mentors for the FAB LAB- Mr. Fransicso and Mr. Shibu.
 Introduction provided by Shri Manas Panda (Director- STPI Bhubaneswar)about newly set-up FAB LAB in Bhubaneswar at 11:00 am followed by brief of the training to be provided to the participants by Mr. Fransisco.
