@@ -4,6 +4,7 @@ Hello My name is Shashikant and my collegue name is Gaurav.<h1>
 
 # INTRODUCTORY DAY-1 (DATE - 18.03.2019)
 
+Vinyl Cutter
 ![Vinyl Cutter](/img/img1.jpg)
 
 *Mentors for the FAB LAB- Mr. Fransicso and Mr. Shibu.
