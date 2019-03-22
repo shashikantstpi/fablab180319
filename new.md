@@ -7,8 +7,6 @@ Hello My name is Shashikant and my collegue name is Gaurav.<h1>
 Vinyl Cutter
 ![Vinyl Cutter](/img/img1.jpg)
 
-[Vinayl Cutter](https://github.com/shashikantstpi/fabzero/blob/master/new.md)
-
 *Mentors for the FAB LAB- Mr. Fransicso and Mr. Shibu.
 Introduction provided by Shri Manas Panda (Director- STPI Bhubaneswar)about newly set-up FAB LAB in Bhubaneswar at 11:00 am followed by brief of the training to be provided to the participants by Mr. Fransisco.<h2>
 
