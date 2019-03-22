@@ -8,11 +8,11 @@ Vinyl Cutter
 ![Vinyl Cutter](/img/img1.jpg)
 
 *Mentors for the FAB LAB- Mr. Fransicso and Mr. Shibu.
-Introduction provided by Shri Manas Panda (Director- STPI Bhubaneswar)about newly set-up FAB LAB in Bhubaneswar at 11:00 am followed by brief of the training to be provided to the participants by Mr. Fransisco.
+Introduction provided by Shri Manas Panda (Director- STPI Bhubaneswar)about newly set-up FAB LAB in Bhubaneswar at 11:00 am followed by brief of the training to be provided to the participants by Mr. Fransisco.<h2>
 
-Further, Dr. Omkar Rai (Director General- STPI) motivated the participants from STPI Centres across pan India to give the best during the training and be a brand ambassador for FAB Labs to be executed across the country in future.
+*Further, Dr. Omkar Rai (Director General- STPI) motivated the participants from STPI Centres across pan India to give the best during the training and be a brand ambassador for FAB Labs to be executed across the country in future.<h3>
 
-Mr. Fransicso started the training session at 12 noon. The participants were informed about the objectives of the training and the basic knowledge of FAB Labs. The safety associated with FAB Lab along with the do's and dont's were also informed to the trainees.
+Mr. Fransicso started the training session at 12 noon. The participants were informed about the objectives of the training and the basic knowledge of FAB Labs. The safety associated with FAB Lab along with the do's and dont's were also informed to the trainees.<h4>
 
 Further, after lunch FAB Lab established at STPI Bhubaneswar was visited. All the equipments installed were demonstrated and working of the equipments were briefed.
 
