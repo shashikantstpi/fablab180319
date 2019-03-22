@@ -1,4 +1,5 @@
 
+![Vinyl Cutter](/img/img1.png)
 # Shashikant & Gaurav Fabzero Experiance
 Hello My name is Shashikant and my collegue name is Gaurav.
 
