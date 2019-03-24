@@ -1,6 +1,6 @@
 # Shashikant & Gaurav Fablab Training Experiance
 ## INTRODUCTORY DAY-1 (DATE - 18.03.2019)
-
+;;
 Trainers for the FAB LAB- Mr. Fransicso and Mr. Shibu.
 
 Dr. Omkar Rai (Director General- STPI) motivated the participants of the STPI to give the best during the training for FAB Labs to be executed across the country in future.
