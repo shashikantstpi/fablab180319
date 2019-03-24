@@ -13,10 +13,10 @@ After that we visited the Fablab and Mr. Francisco had describe about fablab equ
 
 ## Equipments list is as follows:-
 1. [Vinyl Cutter](https://github.com/shashikantstpi/fabzero/blob/master/equipments/vinyl%20cutter.md)
-2. Band Saw 
-3. Scroll Saw Cutter
-4. Laser Cutter
-5. 3-D Printers
+2. [3-D Printer](https://github.com/shashikantstpi/fabzero/blob/master/equipments/3-d-printer.md)
+3. Band Saw 
+4. Scroll Saw Cutter
+5. Laser Cutter
 6. Stereo Lithography Printer
 7. Ink Jet Printer or Poly jet Printer
 8. CNC Machine (Computer Numerical Control)
