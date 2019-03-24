@@ -12,7 +12,7 @@ After lunch we visited the FAB Lab established at STPI Bhubaneswar. All the equi
 After that we visited the Fablab and Mr. Francisco had describe about fablab equipments.
 
 ## Equipments list is as follows:-
-1. Vinyl Cutter
+1. [Vinyl Cutter](https://github.com/shashikantstpi/fabzero/blob/master/equipments/vinyl%20cutter.md)
 2. Band Saw 
 3. Scroll Saw Cutter
 4. Laser Cutter
