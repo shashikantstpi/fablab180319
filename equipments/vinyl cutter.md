@@ -1,22 +1,17 @@
-# Fablab Training Experiance of Shashikant & Gaurav
-## INTRODUCTORY DAY-1 (DATE - 18.03.2019)
+## Vinyl Cutter:-
+Vinyl Cutter is a type of computer-controlled machine. The computer attached to the printer controls the movement of a sharp blade over the surface of the material. This blade is used to cut out shapes and letters from sheets of thin self-adhesive plastic (vinyl). The vinyl can then be stuck to a variety of surfaces depending on the adhesive and type of material.
 
-Trainers for the FAB LAB- Mr. Fransicso and Mr. Shibu.
+To cut out a design, a vector-based image must be created with software. We have used Inkscape for designing purpose. Further, the image or letters are sent to the cutter where it cuts along the vector paths laid out in the design. The cutter is capable of moving the blade on an X and Y axis over the material, cutting it into any shape imaginable. The vinyl sheet comes in a long roll because of which small designs or larger ones can be cut through the vinyl printer Machine that cuts vinyl in to different shapes as per design.
 
-Dr. Omkar Rai (Director General- STPI) motivated the participants of the STPI to give the best during the training for FAB Labs to be executed across the country in future.
+Operational Procedure:
 
-Mr. Fransicso started the training session, the participants were informed about the objectives of the training and the basic knowledge of FAB Labs. The safety associated with FAB Lab along with the do's and dont's were also informed to the trainees.
+1. Loading the roll in the roller and inserting in the cutter by adjusting the rubber.
+2. Fitting the cutting bit in to the spindle and testing the cutting edge of the bit by manually in hand.
+3. Switching on the machine and setting the type of vinyle (roll, piece, edge etc.) as roll.
+4. Setting the origin of the printer for cutting.
+5. Verifying the cutting by pressing the test button.
+6. Once cutting is over verifying the cutting piece if cut properly or not, if cut is not proper then adjusting the cutting bit properly again and apply additional force if required.
+7. For blue vinyl the force required to cut is 80gf.
+8. The vinyl cutter can draw objects if fitted with pen/pencil instead of cutting bit.
 
-After lunch we visited the FAB Lab established at STPI Bhubaneswar. All the equipments installed were demonstrated and working of the equipments were briefed.
-
-After that we visited the Fablab and Mr. Francisco had describe about fablab equipments.
-
-## Equipments list is as follows:-
-1. Vinyl Cutter
-2. Band Saw 
-3. Scroll Saw Cutter
-4. Laser Cutter
-5. 3-D Printers
-6. Stereo Lithography Printer
-7. Ink Jet Printer or Poly jet Printer
-8. CNC Machine (Computer Numerical Control)
+![Vinayl Cutter](/img/Vinyl-cutter.jpg)
