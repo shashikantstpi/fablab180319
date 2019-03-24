@@ -20,5 +20,5 @@ After that we visited the Fablab and Mr. Francisco had describe about fablab equ
 6. 3-D Printers
 7. Stereo Lithography Printer
 8. Ink Jet Printer or Poly jet Printer
-9. (Computer Numerical Control)
+9. CNC Machine (Computer Numerical Control)
 
