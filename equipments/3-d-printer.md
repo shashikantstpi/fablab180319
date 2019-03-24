@@ -1,17 +1,19 @@
-## Vinyl Cutter:-
-Vinyl Cutter is a type of computer-controlled machine. The computer attached to the printer controls the movement of a sharp blade over the surface of the material. This blade is used to cut out shapes and letters from sheets of thin self-adhesive plastic (vinyl). The vinyl can then be stuck to a variety of surfaces depending on the adhesive and type of material.
+## 3-D Printer:-
+3D printing is any of various processes in which material is joined or solidified under computer control to create a three-dimensional object, with material being added together (such as liquid molecules or powder grains being fused together), typically layer by layer. The precision, repeatability and material range have increased to the point that 3D printing is considered as an industrial production technology, with the name of additive manufacturing. 3D printed objects can have a very complex shape or geometry and are always produced starting from a digital 3D model.
 
-To cut out a design, a vector-based image must be created with software. We have used Inkscape for designing purpose. Further, the image or letters are sent to the cutter where it cuts along the vector paths laid out in the design. The cutter is capable of moving the blade on an X and Y axis over the material, cutting it into any shape imaginable. The vinyl sheet comes in a long roll because of which small designs or larger ones can be cut through the vinyl printer Machine that cuts vinyl in to different shapes as per design.
+The make installed at FAB Lab is Sindoh (3DWAX). It is a basic 3-D printer which works on the principle of Fused Filament Deposition. It is a device which works on 3 axis and provides the required shape by the means of deposition of the material used for printing.
 
-Operational Procedure:
+### 3D Printer, SINDOH (3DWAX)
 
-1. Loading the roll in the roller and inserting in the cutter by adjusting the rubber.
-2. Fitting the cutting bit in to the spindle and testing the cutting edge of the bit by manually in hand.
-3. Switching on the machine and setting the type of vinyle (roll, piece, edge etc.) as roll.
-4. Setting the origin of the printer for cutting.
-5. Verifying the cutting by pressing the test button.
-6. Once cutting is over verifying the cutting piece if cut properly or not, if cut is not proper then adjusting the cutting bit properly again and apply additional force if required.
-7. For blue vinyl the force required to cut is 80gf.
-8. The vinyl cutter can draw objects if fitted with pen/pencil instead of cutting bit.
+This machine is used to print 3D objects as per the design.
 
-![Vinyl Cutter](/img/Vinyl-cutter.jpg)
+Operating Procedure:
+
+1. Switch on the machine with appropriate power 110v/240v.
+2. Cleaning the build plate for any dust or plastic remains.
+3. Inserting filament to the cartridge and loading the cartridge in to the machine.
+4. The plastic filament used have dia of 1.75 mm and the extruder compress it to 0.40 mm while printing.
+
+Printing Process
+
+Design the part Slicing Printing the plastic used for 3D printing is Poly Lactic Acid (PLA) a bio-plastic. The printer heat the nozzle first and then the build bed/plate and then start printing.

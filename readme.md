@@ -20,4 +20,5 @@ After that we visited the Fablab and Mr. Francisco had describe about fablab equ
 6. Stereo Lithography Printer
 7. Ink Jet Printer or Poly jet Printer
 8. CNC Machine (Computer Numerical Control)
+9. Electronics for testing the devices (oscilloscope, pulse generator etc.)
 
