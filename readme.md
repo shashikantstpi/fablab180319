@@ -1,5 +1,5 @@
 # Shashikant & Gaurav Fablab Training Experiance
-## INTRODUCTORY DAY-1 (DATE - 18.03.2019)
+## INTRODUCTION
 
 Trainers for the FAB LAB- Mr. Fransicso and Mr. Shibu.
 
