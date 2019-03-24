@@ -36,9 +36,7 @@ While performing the above task a problem was encountered wherein VSC has given 
 
 Once the command is operated , git would recognize the user on web and an email for the same would be sent to the registered email id.
 
-- Note:- The practice of adding precise commit while pushing the data has to be undertaken as it would help the user to recognize the changes made.
-
-Git user id and password is required for making changes on web which is a one time process. 
+- Note:- The practice of adding precise commit while pushing the data has to be undertaken as it would help the user to recognize the changes made. Git user id and password is required for making changes on web which is a one time process. 
 
 6. After saving and pushing the data as mentioned above the same can be reviewed over web under the individual repository.
 
