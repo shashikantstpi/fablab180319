@@ -18,6 +18,12 @@ It is a form of 3D printing technology used for creating models, prototypes, pat
 
 The raw material used in this printer is Liquid resin. Printing is done through laser as the plastic used for fabrication solidifies when light is brought in contact at the required locations through programming.
 
+- VPanel - Easily operated software
+Operation of this machine is performed on the screen of a computer using
+VPanel. Snapshot is as below:
+
+![Vpanel for operate SRM-20](/img/vpanel-srm-20.jpg)
+
 ### Preparing the Machine
 1. Turning the Power On.
 2. The Machine Run-in.
