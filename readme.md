@@ -11,6 +11,8 @@ After lunch we visited the FAB Lab established at STPI Bhubaneswar. All the equi
 
 After that we visited the Fablab and Mr. Francisco had describe about fablab equipments.
 
+[About Fablab](https://github.com/shashikantstpi/fabzero/blob/master/about.md)
+
 ## Equipments list is as follows:-
 1. [Vinyl Cutter](https://github.com/shashikantstpi/fabzero/blob/master/equipments/vinyl%20cutter.md)
 2. [3-D Printer](https://github.com/shashikantstpi/fabzero/blob/master/equipments/3-d-printer.md)
