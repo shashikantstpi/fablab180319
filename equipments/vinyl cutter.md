@@ -1,6 +1,6 @@
-# Shashikant & Gaurav Fablab Training Experiance
+# Fablab Training Experiance of Shashikant & Gaurav
 ## INTRODUCTORY DAY-1 (DATE - 18.03.2019)
-;;
+
 Trainers for the FAB LAB- Mr. Fransicso and Mr. Shibu.
 
 Dr. Omkar Rai (Director General- STPI) motivated the participants of the STPI to give the best during the training for FAB Labs to be executed across the country in future.
@@ -20,4 +20,3 @@ After that we visited the Fablab and Mr. Francisco had describe about fablab equ
 6. Stereo Lithography Printer
 7. Ink Jet Printer or Poly jet Printer
 8. CNC Machine (Computer Numerical Control)
-
