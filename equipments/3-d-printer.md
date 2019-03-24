@@ -17,3 +17,5 @@ Operating Procedure:
 Printing Process
 
 Design the part Slicing Printing the plastic used for 3D printing is Poly Lactic Acid (PLA) a bio-plastic. The printer heat the nozzle first and then the build bed/plate and then start printing.
+
+[Image of 3D-Printer (Sindoh-3DWAX)](/img/3dprinter.jpg)
