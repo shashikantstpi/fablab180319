@@ -1,6 +1,4 @@
 # Shashikant & Gaurav Fablab Training Experiance
-## INTRODUCTION :
-[About Fablab](https://github.com/shashikantstpi/fabzero/blob/master/about.md)
 
 Trainers for the FAB LAB- Mr. Fransicso and Mr. Shibu.
 
@@ -9,8 +7,6 @@ Dr. Omkar Rai (Director General- STPI) motivated the participants of the STPI to
 Mr. Fransicso started the training session, the participants were informed about the objectives of the training and the basic knowledge of FAB Labs. The safety associated with FAB Lab along with the do's and dont's were also informed to the trainees.
 
 After lunch we visited the FAB Lab established at STPI Bhubaneswar. All the equipments installed were demonstrated and working of the equipments were briefed.
-
-After that we visited the Fablab and Mr. Francisco had describe about fablab equipments.
 
 ## Equipments list is as follows:-
 1. [Vinyl Cutter](https://github.com/shashikantstpi/fabzero/blob/master/equipments/vinyl%20cutter.md)
