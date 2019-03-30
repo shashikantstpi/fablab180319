@@ -19,6 +19,9 @@ We visited the FAB Lab established at STPI Bhubaneswar. All the equipments insta
 8. CNC Machine (Computer Numerical Control)
 9. Electronics for testing the devices (oscilloscope, pulse generator etc.)
 
+## Softwares
+1. [Kicad for circuit design] (https://github.com/shashikantstpi/fabzero/blob/master/software/cktdesign.md)
+
 ## About Fablab & Tutorial
 1. [About Fablab](https://github.com/shashikantstpi/fabzero/blob/master/about.md)
 2. [How to use Github Repository](https://github.com/shashikantstpi/fabzero/blob/master/gitrepo.md)
