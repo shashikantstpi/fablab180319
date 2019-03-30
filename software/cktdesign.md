@@ -22,7 +22,7 @@ Realign the components conveniently to house within the layout and replace the w
 - Use add file zone button or press B to fill GND in the entire circuits for F. Cu layer.
 - For Edge Cuts, use add graphic line button for drawing a outer box along the boundary. An yellow line appears along the boundary, select this line and give thickness as 0.8 mm (1/32 bit diameter).
 
-[Screenshot of PCB layout](img/pcblayout.jpg) 
+[Snapshot of PCB layout](img/pcblayout.jpg) 
 
 - In File menu, select Plot option and do the necessary setting.
 
