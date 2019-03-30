@@ -1,7 +1,7 @@
-## Circuit Design & PCB Layout Design
+## Circuit design & PCB Layout Design
 Design of electronics circuit, we used  KiCAD 5.1.0-1 software. 
 
-## Steps for Design circuit:
+## How to design circuit ?
 - Open KiCAD and start new project &
 Select Schematic Layout Editor button, then that the Eschema window will get popped up.
 
@@ -22,7 +22,7 @@ Realign the components conveniently to house within the layout and replace the w
 - Use add file zone button or press B to fill GND in the entire circuits for F. Cu layer.
 - For Edge Cuts, use add graphic line button for drawing a outer box along the boundary. An yellow line appears along the boundary, select this line and give thickness as 0.8 mm (1/32 bit diameter).
 
-[Screenshot of PCB layout](img/pcblayout.jpg). 
+[Screenshot of PCB layout](img/pcblayout.jpg) 
 
 - In File menu, select Plot option and do the necessary setting.
 
@@ -38,4 +38,4 @@ Realign the components conveniently to house within the layout and replace the w
 In the input area options, ensure the selected dpi (KiCAD given value) and in the output area the machine selection as SRM-20.
 Set X0, Y0 & Z0 values to zero and all other fields to default while ensure the cut depth as 0.1 mm and tool diameter as 0.4 mm. Press calculate and save the .rml file.
 
-- Select the input Outline/cut file (.png) and output format as Roland Mill (.rml) and proceed as follows. PCB Outline 1/32. In the input area options, ensure the dpi as above and to invert the image (heightmap logic). Set X0, Y0 & Z0 values to zero and all other fields to default while ensure the cut depth as 0.6 mm, stock thickness as 1.7 mm. and tool diameter as 0.79 mm. Press calculate and save the .rml file
+- Select the input Outline/cut file (.png) and output format as Roland Mill (.rml) and proceed as follows. PCB Outline 1/32. In the input area options, ensure the dpi as above and to invert the image (heightmap logic). Set X0, Y0 & Z0 values to zero and all other fields to default while ensure the cut depth as 0.6 mm, stock thickness as 1.7 mm. and tool diameter as 0.79 mm. Press calculate and save the .rml file.
