@@ -10,4 +10,4 @@ Dust bag should be emptied when ever partially filled. Keep this room away from 
 Ensure for Fire extinguishers No hanging id cards, mobile phones inside this room
 Always have an assistant while working in the room.
 
-[Image of CNC Machine)](/img/cncmachine.jpg)
+[Image of CNC Machine](/img/cncmachine.jpg)
