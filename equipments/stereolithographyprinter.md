@@ -1,4 +1,6 @@
-## Stereo Lithography Printer (SRM-20):-
+## Stereo Lithography Printer-Miling Machine (Roland DGSHAPE Monofab SRM-20):-
+
+The SRM-20 portable milling machine can mill a broad range of materials, including modeling wax, chemical wood, foam, acrylic, poly acetate, ABS and PC board. 
 
 This machine is capable of cutting a wide variety of materials including
 chemical wood, acrylic, and ABS. It is also capable of a range of accuracy
