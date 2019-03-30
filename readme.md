@@ -12,10 +12,10 @@ We visited the FAB Lab established at STPI Bhubaneswar. All the equipments insta
 1. [Vinyl Cutter](https://github.com/shashikantstpi/fabzero/blob/master/equipments/vinyl%20cutter.md)
 2. [3-D Printer](https://github.com/shashikantstpi/fabzero/blob/master/equipments/3-d-printer.md)
 3. [Stereo Lithography Printer](https://github.com/shashikantstpi/fabzero/blob/master/equipments/stereolithographyprinter.md)
-4. Band Saw 
-5. Scroll Saw Cutter
-6. Laser Cutter
-7. CNC Machine (Computer Numerical Control)
+4. [CNC Machine (Computer Numerical Control)](https://github.com/shashikantstpi/fabzero/blob/master/equipments/cncmachine.md)
+5. Band Saw 
+6. Scroll Saw Cutter
+7. Laser Cutter
 8. Electronics for testing the devices (oscilloscope, pulse generator etc.)
 
 ## Softwares
