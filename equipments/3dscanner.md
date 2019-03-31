@@ -1,5 +1,4 @@
 ## Sense 3D Scanner
-: Make Sense of 3D : 
 - Transform the way you work with the best-in-class Sense 3D scanner. Fast, easy, portable and practical, the Sense offers full-color 3D scanning for use in your home, school and business.
 
 : Build 3D archives, product visualizations and communicate your products with Sense :
