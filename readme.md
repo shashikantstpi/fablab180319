@@ -21,6 +21,7 @@ We visited the FAB Lab established at STPI Bhubaneswar. All the equipments insta
 
 ## Softwares
 1. [Kicad for circuit design](https://github.com/shashikantstpi/fabzero/blob/master/software/cktdesign.md)
+2. [FreeCAD](https://github.com/shashikantstpi/fabzero/blob/master/software/freecad.md)
 
 ## About Fablab & Tutorial
 1. [About Fablab](https://github.com/shashikantstpi/fabzero/blob/master/about.md)
