@@ -1,4 +1,4 @@
-# Shashikant & Gaurav Fablab Training Experiance
+# Shashikant Fablab Training Experiance
 
 Trainers for the FAB LAB- Mr. Fransicso and Mr. Shibu.
 
