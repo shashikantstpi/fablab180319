@@ -1,4 +1,4 @@
-## CNC Machine 
+## CNC Machine (Shopbot ASM 98ACE-T7.2)
 
 This is a Computer Numerical Control(CNC) Milling tool. It is a 3 axis cutter and used for 2D & 3D cutting. The resolution is one 10th of a millimeter. Safety is very important when using this machine. During emergency, hit the stop button. Always it is recommended to have one more person while working with this machine. This machine will work smoothly for more than ten years. If power goes off then it is almost like loss of work for beginners. Milling bit is used to cut the wood. Milling bit cuts at high speed. So it is very dangerous if the bit breaks in the middle. The broken bit may hit us with high velocity. So be always at a distance from the machine.
 
