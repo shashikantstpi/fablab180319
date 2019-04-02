@@ -27,4 +27,4 @@ We visited the FAB Lab established at STPI Bhubaneswar. All the equipments insta
 1. [About Fablab](https://github.com/shashikantstpi/fabzero/blob/master/about.md)
 2. [How to use Github Repository](https://github.com/shashikantstpi/fabzero/blob/master/gitrepo.md)
 
-## Final Project (Automatic street light controller)
+## [Final Project (Automatic street light controller)]
