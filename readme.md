@@ -1,5 +1,4 @@
-## My Self Shashikant Patel 
-### STPI Gandhinagar
+## Shashikant Patel, Worked at STPI Gandhinagar.
 ## Fablab Training Experiance
 
 Trainers for the FAB LAB- Mr. Fransicso and Mr. Shibu.
