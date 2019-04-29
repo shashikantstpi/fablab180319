@@ -17,7 +17,7 @@ We visited the FAB Lab established at STPI Bhubaneswar. All the equipments insta
 5. [Band Saw](https://github.com/shashikantstpi/fabzero/blob/master/equipments/bandshow.md)
 7. [3D Scanner](https://github.com/shashikantstpi/fabzero/blob/master/equipments/3dscanner.md)
 6. [Scroll Saw Cutter](https://github.com/shashikantstpi/fabzero/blob/master/equipments/scrollsaw.md)
-7. Laser Cutter
+7. [Laser Cutter](https://github.com/shashikantstpi/fabzero/blob/master/equipments/lasercutter.md)
 8. [Electronics for testing the devices (Oscilloscope, Function generator, etc.)](https://github.com/shashikantstpi/fabzero/blob/master/equipments/electronicsdevice.md)
 
 ## Softwares
