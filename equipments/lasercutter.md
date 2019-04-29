@@ -8,4 +8,4 @@ Wood, Acrylic, Fabric, Glass, Coated Metals, Ceramic, Delrin, Cloth, Leather, Ma
 ## Cut: 
 Wood, Acrylic, Fabric, Delrin, Cloth, Leather, Matte Board, Melamine, Paper, Mylar, Pressboard, Rubber, Wood Veneer, Fiberglass, Plastic, Cork, Corian. Stainless Steel, Brass, Titanium, and Bare Metals: CO2 lasers will mark bare metals when coated with a metal marking solution.
 
-[Image of Laser Cutter (Dewalt)](/img/laser.jpg)
+[Image of Laser Cutter (Epilog Laser Fusion M2)](/img/laser.jpg)
