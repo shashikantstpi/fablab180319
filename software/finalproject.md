@@ -13,10 +13,11 @@ Used component:-
 
 5. LED
 	
-  Circuit Design in Kicad Software: [Click here for Snapshot](/img/cktdesign1.jpg)
+Circuit Design in Kicad Software: 
+[Click here for Snapshot](/img/cktdesign1.jpg)
     
-  PCB Design Cut through Milling Machine & Components Soldering
-  [Click here for Snapshot](/img/pcb.jpg)
+PCB Design Cut through Milling Machine & Components Soldering
+[Click here for Snapshot](/img/pcb.jpg)
   
 ## Conclusion : 
 LED control by the use of phototransistor and Attiny 85-20SSU microcontroller. When Light comes on the phototransistor then LED goes to OFF mode and when light goes from the phototransistor LED goes to ON mode using programmable microcontroller  Attiny 85-20SSU.
