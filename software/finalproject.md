@@ -13,6 +13,6 @@ Used component:-
   PCB Design Cut through Milling Machine & Components Soldering
   [Click here for Snapshot](/img/pcb.jpg)
   
-##Conclusion : 
+## Conclusion : 
 LED control by the use of phototransistor and Attiny 85-20SSU microcontroller. When Light comes on the phototransistor then LED goes to OFF mode and when light goes from the phototransistor LED goes to ON mode using programmable microcontroller  Attiny 85-20SSU.
 
