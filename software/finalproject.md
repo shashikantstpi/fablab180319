@@ -2,11 +2,11 @@
 ## Automatic street light controller
 
 Used component:-
-	1. Attiny 85-20SSU (Microcontroller)
-	2. AVR ISP-6 (ISP Header)
-	3. Phototransistor (NPN)
-	4. Resistors (1 & 10k)
-	5. LED
+	- 1. Attiny 85-20SSU (Microcontroller)
+	- 2. AVR ISP-6 (ISP Header)
+	- 3. Phototransistor (NPN)
+	- 4. Resistors (1 & 10k)
+	- 5. LED
 	
   Circuit Design in Kicad Software: [Click here for Snapshot](/img/cktdesign1.jpg)
     
